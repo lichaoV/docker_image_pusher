@@ -4,3 +4,5 @@ flowable/flowable-jre:21
 mcuadros/ofelia:latest
 ghcr.io/mailcow/nginx:1.06
 memcached:alpine
+library/mariadb:10.11
+ghcr.io/mailcow/sogo:1.129
