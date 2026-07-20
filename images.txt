@@ -8,3 +8,4 @@ library/mariadb:10.11
 ghcr.io/mailcow/sogo:1.129
 jenkins/jenkins:lts-jdk17
 jenkins/jenkins:lts-jdk21
+ghcr.io/adrianjagielak/flutter:3.44.6
