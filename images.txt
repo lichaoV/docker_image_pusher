@@ -6,3 +6,4 @@ ghcr.io/mailcow/nginx:1.06
 memcached:alpine
 library/mariadb:10.11
 ghcr.io/mailcow/sogo:1.129
+jenkins/jenkins:lts-jdk17
